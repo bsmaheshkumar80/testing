@@ -1,7 +1,17 @@
 I am Mahesh Kumar B S.
 Age 44, Born and Bought up in Bangalore.
 
-I am an Senior Engeeing Manager at Sitetarcker 
+I am an Senior Engineering Manager at Sitetarcker.
+Our Chief Product & Technology Officer is Brock
+My Boss is Atilio Jobson VP Engineering.
+My Peers are
+Zainab Shikari Senior Director Engineering
+Himanshu Patel Senior Engineering Manager
+Narasimhan Gopinath Engineering Manager
+
+
+Brant Carter is the VP Product reporting to Brock
+Kim Howell is the Director of Product Design
 
 Core Identity:
 
